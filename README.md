@@ -25,18 +25,18 @@ Le développement tourne autour de 3 grandes parties.
 
 Site web permettant à un joueur de s'inscrire en ligne, le projet prévoit le principe suivant pour l'inscription en ligne.
 
-![acteurFluxInscription.png](./Image/acteurFluxInscription.png)
+![acteurFluxInscription.png](./Image/acteurFluxInscription.PNG)
 
 # Sio Crawler le jeu #
 
-![useCasePersonnage.png](./Image/useCasePersonnage.png)
+![useCasePersonnage.png](./Image/useCasePersonnage.PNG)
 
 Les classes développées.
 
-![diagrammeClassePersonnage.png](./Image/diagrammeClassePersonnage.png)
+![diagrammeClassePersonnage.png](./Image/diagrammeClassePersonnage.PNG)
 
 # Sauvegarde du contexte #
 
 La sauvegarde du contexte se fera dans la base de données.
 
-![mcdSauvegarde.png](./Image/mcdSauvegarde.png)
+![mcdSauvegarde.png](./Image/mcdSauvegarde.PNG)
